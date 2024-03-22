@@ -5,3 +5,8 @@
 $ git branch
 checks for the available branches
 ```
+## Listing
+- [x] create a portfolio
+- [x] resume website
+- [x] style everything up for perfection
+- [ ] update regularly
